@@ -1,0 +1,7 @@
+Init-OrchardCoreSolution -Name "OrchardCore.Demo" -ModuleName "OrchardCore.Module" -ThemeName "OrchardCore.Theme"
+
+Password1!
+
+Thank you {{User.Identity.Name}}!
+
+dotnet new octheme -n "Demo.Theme"
