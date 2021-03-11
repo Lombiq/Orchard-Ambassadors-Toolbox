@@ -7,7 +7,7 @@
 Some useful tools and content for those who want to evangelize Orchard Core.
 
 
-### Orchard Ambassadors Orchard Core introductory talk template
+### Orchard Core introductory talk template
 
 Do you want to give a talk at a meetup or conference about Orchard Core? Here is a PowerPoint template to help you get going, as well as various tips on how to conduct the talk. Do add your personal touch to it and adapt it to the given occasion of course!
 
