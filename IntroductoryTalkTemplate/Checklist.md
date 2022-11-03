@@ -10,3 +10,4 @@
 - Open all sample sites
 - Open PPTX
 - Plug in presenter and turn it on
+- Hide Navigation Pane in Windows Explorer
