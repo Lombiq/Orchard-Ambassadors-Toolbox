@@ -1,11 +1,8 @@
 # Orchard Ambassadors Toolbox
 
-
-
 ## About
 
 Some useful tools and content for those who want to evangelize Orchard Core.
-
 
 ### Orchard Core introductory talk template
 

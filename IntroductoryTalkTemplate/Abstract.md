@@ -1,8 +1,5 @@
 ﻿# Orchard introductory talk template - abstract
 
-
-
-
 This is a sample abstract that you can use with the talk template, in a customized form.
 
 ---

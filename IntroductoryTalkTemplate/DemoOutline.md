@@ -1,7 +1,5 @@
 # Orchard Core demo outline
 
-
-
 Use the snippets in the Snippets file to quickly copy text instead of having to type it all in.
 
 This assumes you already have an Orchard Core solution ready but as a first step you can also demo creating it. The corresponding snippet uses [Lombiq Utility Scripts
