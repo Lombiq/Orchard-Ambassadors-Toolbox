@@ -9,7 +9,7 @@ This is a sample abstract that you can use with the talk template, in a customiz
 
 **Showcasing Orchard Core CMS**
 
-A quick dive into working with the modern ASP.NET Core framework and web content management system (CMS) Orchard Core.
+Are you developing .NET web apps and are tired of reinventing the wheel with every project? Use a modern foundation to build on instead! In this session, we'll do a quick dive into working with the modern ASP.NET Core framework and web content management system (CMS) Orchard Core. We'll see what Orchard can provide you, how it goes beyond simple content management, and why you'd want to join such a cutting-edge open-source community.
 
 This talk aims to answer the following questions:
 
