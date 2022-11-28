@@ -17,11 +17,12 @@ This assumes you already have an Orchard Core solution ready but as a first step
 	2. User management basics.
 	3. Recipes again, import/export
 	4. Modules and themes: Basic concepts of Orchard extensibility, how to configure them. Enable another theme (like Agency) to show how themes work.
-	5. Enable Workflows and create a Workflow Type to show a notification when content is published (notification Liquid: `Thank you {{User.Identity.Name}}!`).
-	6. Layers and widgets: Show how the same widget concept used with Pages can be utilized again.
-	7. Queries and Search with Lucene: Explain the concept of queries, what Lucene is, how listing content items works. You can also explain SQL Queries.
-	8. Templates: Create a template to override some small shape template.
-	9. Localization: Configure site cultures, set up a language selector, create localized content items, mention how UI labels are localized.
+	5. Enable Audit Trail, configure all content types to record events for. Show how creating, then editing a Blog Post is recorded, with diffs. Use the occasion to explain versioning.
+	6. Enable Workflows and create a Workflow Type to show a notification when content is published (notification Liquid: `Thank you {{User.Identity.Name}}!`).
+	7. Layers and widgets: Show how the same widget concept used with Pages can be utilized again.
+	8. Queries and Search with Lucene: Explain the concept of queries, what Lucene is, how listing content items works. You can also explain SQL Queries.
+	9. Templates: Create a template to override some small shape template.
+	10. Localization: Configure site cultures, set up a language selector, create localized content items, mention how UI labels are localized.
 5. Introduction to extending Orchard
 	1. Create a theme with the command line template if you haven't created it together with the solution: `dotnet new octheme -n "OrchardCore.Theme"`
 	2. Modify *Layout.liquid* (e.g. you can write something in front of the site name) and explain the concept of shapes and shape template overrides.
