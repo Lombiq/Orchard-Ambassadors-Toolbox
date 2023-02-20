@@ -15,7 +15,7 @@ This talk aims to answer the following questions:
 - How can I use Orchard, how can I develop my own modules for it?
 - Why would I join such an open-source community, why does it help my professional development?
 
-Keywords: CMS, .NET, ASP.NET, ASP.NET Core MVC, C#, Orchard Core
+Keywords: web, CMS, .NET, ASP.NET, ASP.NET Core MVC, MVC, C#, Orchard Core
 
 This talk is for you if:
 
