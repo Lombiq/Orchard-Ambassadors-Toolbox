@@ -4,14 +4,14 @@ This is a sample abstract that you can use with the talk template, in a customiz
 
 ---
 
-**Showcasing Orchard Core CMS**
+**Modern .NET web development with batteries included - Showcasing Orchard Core CMS**
 
-Are you developing .NET web apps and are tired of reinventing the wheel with every project? Use a modern foundation to build on instead! In this session, we'll do a quick dive into working with the modern ASP.NET Core framework and web content management system (CMS) Orchard Core. We'll see what Orchard can provide you, how it goes beyond simple content management, and why you'd want to join such a cutting-edge open-source community.
+Are you developing .NET web apps and are tired of reinventing the wheel with every project? Use a modern foundation to build on instead! In this session, we'll do a quick dive into working with the modern ASP.NET Core framework and web content management system (CMS) Orchard Core (https://www.orchardcore.net/). We'll see what Orchard can provide you, how it goes beyond simple content management, and why you'd want to join such a cutting-edge open-source community.
 
 This talk aims to answer the following questions:
 
 - Why would I use a CMS as a .NET web developer?
-- What does Orchard Core (https://www.orchardcore.net/) provide me?
+- What does Orchard Core provide me?
 - How can I use Orchard, how can I develop my own modules for it?
 - Why would I join such an open-source community, why does it help my professional development?
 
