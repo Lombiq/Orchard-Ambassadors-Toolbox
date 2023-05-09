@@ -26,4 +26,4 @@ This assumes you already have an Orchard Core solution ready but as a first step
 5. Introduction to extending Orchard
 	1. Create a theme with the command line template if you haven't created it together with the solution: `dotnet new octheme -n "OrchardCore.Theme"`
 	2. Modify *Layout.liquid* (e.g. you can write something in front of the site name) and explain the concept of shapes and shape template overrides.
-	3. Show some simple examples from the [Training Demo module](https://github.com/Lombiq/Orchard-Training-Demo-Module). `YourFirstOrchardCoreController` is a good example.
+	3. Show some simple examples from the [Training Demo module](https://github.com/Lombiq/Orchard-Training-Demo-Module). `YourFirstOrchardCoreController` is a good example. Alternatively or additionally, you can show the code of something simpler, like `TitlePart`, in the Orchard Core source. You can correlate what people have seen on the admin with the code.
