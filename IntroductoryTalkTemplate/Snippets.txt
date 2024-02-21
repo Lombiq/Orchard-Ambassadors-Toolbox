@@ -1,4 +1,4 @@
-Initialize-OrchardCoreSolution -Name "OrchardCore.Demo" -ModuleName "OrchardCore.DemoModule" -ThemeName "OrchardCore.DemoTheme"
+Initialize-OrchardCoreSolution -Name "OrchardCore.Demo" -ModuleName "OrchardCore.Demo.Module" -ThemeName "OrchardCore.Demo.Theme"
 
 Password1!
 
