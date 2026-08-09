@@ -1,6 +1,6 @@
 - Copy all files of the presentation to the Desktop for easy access
 - Change power plan to high-performance but make sure you have enough battery charge remaining (or a charger)
-- Shut down everything unnecessary: Skype, Teams, Drop/Box, etc.
+- Shut down everything unnecessary: Teams, Drop/Box, etc.
 - Shut down Flux or any nigh-light program not to distort the colors
 - Mute phone, open countdown on phone
 - Open solution folder in Explorer
